@@ -1,0 +1,9 @@
+.courses {
+    margin-bottom: 50px;
+    display: flex;
+}
+.titleName{
+    text-align: center;
+    margin:50px;
+    border-bottom:1px solid #000;
+}
